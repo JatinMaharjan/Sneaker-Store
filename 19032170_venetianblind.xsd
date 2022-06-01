@@ -1,0 +1,136 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Store" type="StoreType"/>
+  <xs:complexType name="headerType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="Heading"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Store-AddressType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="Main_branch"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="DetailsType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="Storename"/>
+      <xs:element type="Store-AddressType" name="Store-Address"/>
+      <xs:element type="xs:string" name="Telephone-Number"/>
+      <xs:element type="xs:long" name="Personal_Number"/>
+      <xs:element type="xs:anyURI" name="website"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ShoesType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="type" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="QuantityType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="Shoes_Quntity" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="CategoryType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="Category" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="CollaborationType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="Collaboration" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="Shoe_AvailableType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="Available_Shoes" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="Limited_PairType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="LimitedPairs" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="Inspired_FromType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="Inspired_From" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="BrandType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:byte" name="Brand_id" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="shoes-InfoType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="Shoes_Name"/>
+      <xs:element type="ShoesType" name="Shoes"/>
+    <xs:element name="Shoes_Brand">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
+                <xs:enumeration value="Brand: Air Jordan"/>
+                <xs:enumeration value="Brand: Addidas"/>
+                <xs:enumeration value="Brand: Balenciaga"/>
+                <xs:enumeration value="Brand: Gucci"/>
+                <xs:enumeration value="Brand: Nike"/>
+                <xs:enumeration value="Brand: Nike"/>
+                <xs:enumeration value="Brand: Air Jordan"/>
+                <xs:enumeration value="Brand: Addidas"/>
+                <xs:enumeration value="Brand: Nike"/>
+                <xs:enumeration value="Brand: Vans"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+
+      <xs:element type="xs:string" name="Release_Date"/>
+      <xs:element type="QuantityType" name="Quantity"/>
+      <xs:element type="xs:string" name="Stock_Keeping_Unit"/>
+      <xs:element type="xs:string" name="Shoes_Material"/>
+      <xs:element type="xs:string" name="Main_Colour"/>
+      <xs:element type="xs:string" name="Colourway"/>
+      <xs:element type="xs:string" name="Designed_by"/>
+      <xs:element type="xs:string" name="Silhouette"/>
+      <xs:element type="xs:string" name="Technology"/>
+      <xs:element type="xs:string" name="Nick_Name"/>
+      <xs:element type="CategoryType" name="Category"/>
+      <xs:element type="CollaborationType" name="Collaboration"/>
+      <xs:element type="Shoe_AvailableType" name="Shoe_Available"/>
+      <xs:element type="xs:string" name="Buy_New"/>
+      <xs:element type="xs:string" name="Buy_Used"/>
+      <xs:element type="Limited_PairType" name="Limited_Pair"/>
+      <xs:element type="Inspired_FromType" name="Inspired_From"/>
+      <xs:element type="BrandType" name="Brand"/>
+      <xs:element type="xs:string" name="description"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Shoes-detailType" mixed="true">
+    <xs:sequence>
+      <xs:element type="shoes-InfoType" name="shoes-Info" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:byte" name="ShoesNo" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="StoreType">
+    <xs:choice maxOccurs="unbounded" minOccurs="0">
+      <xs:element type="headerType" name="header"/>
+      <xs:element type="DetailsType" name="Details"/>
+      <xs:element type="xs:string" name="Heading"/>
+      <xs:element type="Shoes-detailType" name="Shoes-detail"/>
+    </xs:choice>
+  </xs:complexType>
+</xs:schema>

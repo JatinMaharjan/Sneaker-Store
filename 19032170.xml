@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Store SYSTEM "catalog_19032170.dtd">
+
+<Store xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="19032170_russiandoll.xsd">
+
+<header>
+    
+    <Heading>Jutta</Heading>
+</header>
+
+<Details >
+    <Storename>Jutta</Storename>
+    <Store-Address Main_branch="Bhaisepati">Khokana,Lalitpur</Store-Address>
+    <Telephone-Number>01-5591345</Telephone-Number>
+    <Personal_Number>9861356479</Personal_Number>
+    <website>www.Jutta.com.np</website>
+</Details>
+<Heading>Nike</Heading>
+<Shoes-detail ShoesNo="01">
+    <shoes-Info>
+
+        <Shoes_Name>Shoes Name: Air Jordan 1 Retro High OG 'Hyper Royal'</Shoes_Name>
+        <Shoes type="High Top Sneaker">Shoes Type: High Top Sneaker</Shoes>
+        <Shoes_Brand>Brand: Air Jordan</Shoes_Brand>
+        <Release_Date>Release Date: 2021-04-18</Release_Date>
+	    <Quantity Shoes_Quntity= "1000 Worldwide">Shoes Quality: 30,000 Worldwide</Quantity>
+        <Stock_Keeping_Unit>SKU: 555088402</Stock_Keeping_Unit>
+        <Shoes_Material>Shoes_Material: Suede</Shoes_Material>
+        <Main_Colour>Main Colour: Blue</Main_Colour>
+        <Colourway>Colourway: Hyper Royal/Light Smoke Grey/White</Colourway>
+        <Designed_by>Peter Moore</Designed_by>
+        <Silhouette>Silhouette: Air Jordan 1</Silhouette>
+        <Technology>Technology: Air</Technology>
+        <Nick_Name>Nick Name: Hyper Royal</Nick_Name>
+        <Category Category= "Basketball">Category: Basketball</Category>
+	    <Collaboration Collaboration= "Travis Scott">Collaboration: Travic Scott</Collaboration>
+        <Shoe_Available Available_Shoes= "45 Pairs">Available Shoes: 45 Pairs</Shoe_Available>
+        <Buy_New>Buy New: 258</Buy_New>
+        <Buy_Used>Buy Used: $333</Buy_Used>
+	    <Limited_Pair LimitedPairs="11/170">Limited Pair: 11/170</Limited_Pair>
+        <Inspired_From Inspired_From= "Back to the Future II(Movie)">Inspired From: Back to the Future II(Movie)</Inspired_From>
+        <Brand Brand_id= "2">Brand ID: 2</Brand>
+        <description>
+            <![CDATA[The Air Jordan 1 Retro High OG ‘Hyper Royal’ takes on a weathered aesthetic, highlighted by a white leather upper with faded blue suede overlays. Contrasting neutral grey hits land on the Swoosh and padded collar, adding to the sneaker’s understated palette. OG branding elements include a Jordan Wings logo on the lateral collar flap and a woven Nike tongue tag. The high-top is mounted on a standard AJ1 rubber cupsole, featuring encapsulated Nike Air cushioning in the heel.]]>
+        </description>
+        
+    </shoes-Info>
+</Shoes-detail>
+
+<Heading>Addidas</Heading>
+<Shoes-detail ShoesNo="02">
+    <shoes-Info>
+
+        <Shoes_Name>Shoes Name: Yeezy Boost 350 V2 'Cream White / Triple White'</Shoes_Name>
+        <Shoes type="Low-Top Sneaker">Shoes Type: Low Top Sneaker</Shoes>
+        <Shoes_Brand>Brand: Addidas</Shoes_Brand>
+        <Release_Date>Release Date: 2017-04-30</Release_Date>
+	    <Quantity Shoes_Quntity= "45,000 Worldwide">Shoes Quality: 30,000 Worldwide</Quantity>
+        <Stock_Keeping_Unit>SKU: CP9366</Stock_Keeping_Unit>
+        <Shoes_Material>Shoes_Material: Primeknit</Shoes_Material>
+        <Main_Colour>Main Colour: White</Main_Colour>
+        <Colourway>Colourway: Cream White/Cream White/Core White</Colourway>
+        <Designed_by>Designed by: Kanye West</Designed_by>
+        <Silhouette>Silhouette: Yeezy Boost</Silhouette>
+        <Technology>Technology: Boost</Technology>
+        <Nick_Name>Nick Name: Cream White</Nick_Name>
+        <Category Category= "Basketball">Category: Basketball</Category>
+	    <Collaboration Collaboration= "Travis Scott">Collaboration: Travic Scott</Collaboration>
+	    <Shoe_Available Available_Shoes= "45 Pairs">Available Shoes: 45 Pairs</Shoe_Available>
+        <Buy_New>Buy New: $374</Buy_New>
+        <Buy_Used>Buy Used: $130</Buy_Used>
+	    <Limited_Pair LimitedPairs="11/170">Limited Pair: 11/170</Limited_Pair>
+        <Inspired_From Inspired_From= "Back to the Future II(Movie)">Inspired From: Back to the Future II(Movie)</Inspired_From>
+        <Brand Brand_id= "1">Brand ID: 1</Brand>
+        <description>
+            <![CDATA[First released on April 29, 2017, the Yeezy Boost 350 V2 ‘Cream White’ combines a cream Primeknit upper with tonal cream SPLY 350 branding, and a translucent white midsole housing full-length Boost. Released again in October 2018, this retro helped fulfill Kanye West’s oft-repeated ‘YEEZYs for everyone’ Twitter mantra, as adidas organized the biggest drop in Yeezy history by promising pre-sale to anyone who signed up on the website. Similar to the first release, the ‘Triple White’ 2018 model features a Primeknit upper, a Boost midsole and custom adidas and Yeezy co-branding on the insole.]]>
+        </description>
+    </shoes-Info>
+</Shoes-detail>
+
+<Heading>Balenciaga</Heading>
+<Shoes-detail ShoesNo="03">
+    <shoes-Info>
+
+        <Shoes_Name>Shoes Name: Balenciaga Speed Trainer 'Clear Sole - Black'</Shoes_Name>
+        <Shoes type="High Top Sneaker">Shoes Type: High Top Sneaker</Shoes>
+        <Shoes_Brand>Brand: Balenciaga</Shoes_Brand>
+        <Release_Date>Release Date: November 2016</Release_Date>
+	    <Quantity Shoes_Quntity= "30 Worldwide">Shoes Quality: 30,000 Worldwide</Quantity>
+        <Stock_Keeping_Unit>SKU: W05GG 1010</Stock_Keeping_Unit>
+        <Shoes_Material>Shoes_Material: Polyamide</Shoes_Material>
+        <Main_Colour>Main Colour: Black</Main_Colour>
+        <Colourway>Colourway: Black/White</Colourway>
+        <Designed_by>Designed by: Demna Gvasalia</Designed_by>
+        <Silhouette>Silhouette: Balenciaga Speed Trainers</Silhouette>
+        <Technology>Technology: Boost</Technology>
+        <Nick_Name>Nick Name: Clear Sole-Black</Nick_Name>
+	    <Category Category= "Basketball">Category: Basketball</Category>
+	    <Collaboration Collaboration= "Travis Scott">Collaboration: Travic Scott</Collaboration>
+        <Shoe_Available Available_Shoes="50 Pairs">Available Shoes: 50 Pairs</Shoe_Available>
+        <Buy_New>Buy New: $610</Buy_New>
+        <Buy_Used>Buy Used: $150</Buy_Used>
+	    <Limited_Pair LimitedPairs="11/170">Limited Pair: 11/170</Limited_Pair>
+        <Inspired_From Inspired_From= "Back to the Future II(Movie)">Inspired From: Back to the Future II(Movie)</Inspired_From>
+        <Brand Brand_id= "1">Brand ID: 1</Brand>
+        <description>
+            <![CDATA[Balenciaga is the neat and classy look shoes. Is is a proff that there is beauty in simplicity. It is insane comfortable with memory foam to boast and shock-absorbing components to keep the feet relaxed.]]>
+        </description>
+    </shoes-Info>
+</Shoes-detail>
+
+<Heading>Gucci</Heading>
+
+<Shoes-detail ShoesNo="04">
+    <shoes-Info>
+
+        <Shoes_Name>Shoes Name: Gucci Ace Stripe Leather 'Black'</Shoes_Name>
+        <Shoes type="High Top Sneaker">Shoes Type: Low Top Sneaker</Shoes>
+        <Shoes_Brand>Brand: Gucci</Shoes_Brand>
+        <Release_Date>Release Date: 2017</Release_Date>
+	    <Quantity Shoes_Quntity= "3,000 Worldwide">Shoes Quality: 30,000 Worldwide</Quantity>
+        <Stock_Keeping_Unit>SKU: 523469 0FIV0 1076</Stock_Keeping_Unit>
+        <Shoes_Material>Shoes_Material: Leather</Shoes_Material>
+        <Main_Colour>Main Colour: Black</Main_Colour>
+        <Colourway>Colourway: Black/Red</Colourway>
+        <Designed_by>Designed by: Marco Bizzarri</Designed_by>
+        <Silhouette>Silhouette: Gucci Ace</Silhouette>
+        <Technology>Technology: Vintage</Technology>
+        <Nick_Name>Nick Name: Black</Nick_Name>
+	    <Category Category= "Basketball">Category: Basketball</Category>
+	    <Collaboration Collaboration= "Travis Scott">Collaboration: Travic Scott</Collaboration>
+	    <Shoe_Available Available_Shoes= "45 Pairs">Available Shoes: 45 Pairs</Shoe_Available>
+        <Buy_New>Buy New: $415</Buy_New>
+        <Buy_Used>Buy Used: $460</Buy_Used>
+        <Limited_Pair LimitedPairs="11/170">Limited Pair: 11/170</Limited_Pair>
+        <Inspired_From Inspired_From= "Back to the Future II(Movie)">Inspired From: Back to the Future II(Movie)</Inspired_From>
+        <Brand Brand_id= "91">Brand ID: 1</Brand>
+        <description>
+            <![CDATA[Gucci is an italian fashion label founded in 1921 by Guccio Gucci. It is one of the oldest italian fashion brand. This brand produce luxury goods. This shoes is the vintage shoes.]]>
+        </description>
+    </shoes-Info>
+</Shoes-detail>
+
+<Heading>Nike</Heading>
+<Shoes-detail ShoesNo="05">
+    <shoes-Info>
+
+        <Shoes_Name>Shoes Name: LeBron 17 'Air Command Force'</Shoes_Name>
+        <Shoes type="High Top Sneaker">Shoes Type: High Top Sneaker</Shoes>
+        <Shoes_Brand>Brand: Nike</Shoes_Brand>
+        <Release_Date>Release Date: 2020-04-17</Release_Date>
+	    <Quantity Shoes_Quntity= "30,00 Worldwide">Shoes Quality: 30,000 Worldwide</Quantity>
+        <Stock_Keeping_Unit>SKU: BQ3177 100</Stock_Keeping_Unit>
+        <Shoes_Material>Shoes_Material: Kintposite</Shoes_Material>
+        <Main_Colour>Main Colour: White</Main_Colour>
+        <Colourway>Colourway: White/Black/Multi-Color</Colourway>
+        <Designed_by>Designed by: Jason Petrie</Designed_by>
+        <Silhouette>Silhouette: LeBron 17</Silhouette>
+        <Technology>Technology: Air</Technology>
+        <Nick_Name>Nick Name: Air Command Force</Nick_Name>
+        <Category Category= "Basketball">Category: Basketball</Category>
+	    <Collaboration Collaboration= "Travis Scott">Collaboration: Travic Scott</Collaboration>
+	    <Shoe_Available Available_Shoes= "45 Pairs">Available Shoes: 45 Pairs</Shoe_Available>
+        <Buy_New>Buy New: $100</Buy_New>
+        <Buy_Used>Buy Used: $120</Buy_Used>
+	    <Limited_Pair LimitedPairs="11/170">Limited Pair: 11/170</Limited_Pair>
+        <Inspired_From Inspired_From= "Back to the Future II(Movie)">Inspired From: Back to the Future II(Movie)</Inspired_From>
+        <Brand Brand_id= "1">Brand ID: 1</Brand>
+        <description>
+            <![CDATA[The Nike LeBron 17 ‘Air Command Force’ draws inspiration from the ‘90s basketball shoe made famous by David Robinson and Billy Hoyle (Woody Harrelson’s character in the 1992 film ‘White Men Can’t Jump’). The homage is made apparent with LeBron branding atop the tongue that mirrors the Air Command’s Force logo. The rest of the upper uses breathable white knit with multi-colored heat-molded yarns, all of which is supported by a lightly speckled midsole.]]>
+        </description>
+    </shoes-Info>
+</Shoes-detail>
+
+<Heading>Nike</Heading>
+<Shoes-detail ShoesNo="06">
+    <shoes-Info>
+
+        <Shoes_Name>Shoes Name: Air Yeezy 2 SP 'Red October'</Shoes_Name>
+        <Shoes type="High Top Sneaker">Shoes Type: High Top Sneaker</Shoes>
+        <Shoes_Brand>Brand: Nike</Shoes_Brand>
+        <Release_Date>Release Date: 2014-02-10</Release_Date>
+        <Quantity Shoes_Quntity= "69 Pairs">Shoes Quantity: 69 Pairs</Quantity>
+        <Stock_Keeping_Unit>SKU: 508214 660</Stock_Keeping_Unit>
+        <Shoes_Material>Shoes_Material: Leather</Shoes_Material>
+        <Main_Colour>Main Colour: Red</Main_Colour>
+        <Colourway>Colourway: Red</Colourway>
+        <Designed_by>Designed by: Kanye West</Designed_by>
+        <Silhouette>Silhouette: Air Yeezy 2</Silhouette>
+        <Technology>Technology: Air</Technology>
+        <Nick_Name>Nick Name: Red October</Nick_Name>
+	    <Category Category= "Basketball">Category: Basketball</Category>
+	    <Collaboration Collaboration= "Travis Scott">Collaboration: Travic Scott</Collaboration>
+        <Shoe_Available Available_Shoes= "1 Limited Pair">Available Shoes: 1 Limited Pair</Shoe_Available>
+        <Buy_New>Buy New: $10,000</Buy_New>
+        <Buy_Used>Buy Used: $5,200</Buy_Used>
+        <Limited_Pair LimitedPairs="7/69">Limited Pairs: 7/69</Limited_Pair>
+	    <Inspired_From Inspired_From= "Back to the Future II(Movie)">Inspired From: Back to the Future II(Movie)</Inspired_From>
+        <Brand Brand_id= "1">Brand ID: 1</Brand>
+        <description>
+            <![CDATA[The Air Yeezy 2 SP ‘Red October’ stands out from its two companion colorways. There’s the monochromatic scarlet finish, contrasted only by metallic gold lace tips. There’s the unique design, which sees the side panels ditch the standard anaconda texture in favor of rows upon rows of small triangular studs. Finally, there’s the chaos that surrounded the shoe’s much-delayed release. By the time the Red Octobers finally launched online with no advance notice in February 2014, Kanye West had already severed all ties with Nike.]]>
+        </description>
+    </shoes-Info>
+</Shoes-detail>
+
+<Heading>Nike</Heading>
+<Shoes-detail ShoesNo="07">
+    <shoes-Info>
+
+        <Shoes_Name>Shoes Name: Travis Scott x Air Jordan 6 Retro 'British Khaki'</Shoes_Name>
+        <Shoes type="High Top Sneaker">Shoes Type: High Top Sneaker</Shoes>
+        <Shoes_Brand>Brand: Air Jordan</Shoes_Brand>
+        <Release_Date>Release Date: 2021-05-01</Release_Date>
+        <Quantity Shoes_Quntity= "30,000 Worldwide">Shoes Quality: 30,000 Worldwide</Quantity>
+        <Stock_Keeping_Unit>SKU: DH0690 200</Stock_Keeping_Unit>
+        <Shoes_Material>Shoes_Material: Sude</Shoes_Material>
+        <Main_Colour>Main Colour: Tan</Main_Colour>
+        <Colourway>Colourway: British Khaki/Sail/Bright Crimson</Colourway>
+        <Designed_by>Designed by: Tinker Hatfield</Designed_by>
+        <Silhouette>Silhouette: Air Jordan 6</Silhouette>
+        <Technology>Technology: Air</Technology>
+        <Nick_Name>Nick Name: British Khaki</Nick_Name>
+	    <Category Category= "Basketball">Category: Basketball</Category>
+        <Collaboration Collaboration= "Travis Scott">Collaboration: Travic Scott</Collaboration>
+	    <Shoe_Available Available_Shoes= "45 Pairs">Available Shoes: 45 Pairs</Shoe_Available>
+        <Buy_New>Buy New: $340</Buy_New>
+        <Buy_Used>Buy Used: $505</Buy_Used>
+	    <Limited_Pair LimitedPairs="11/170">Limited Pair: 11/170</Limited_Pair>
+        <Inspired_From Inspired_From= "Back to the Future II(Movie)">Inspired From: Back to the Future II(Movie)</Inspired_From>
+        <Brand Brand_id= "1">Brand ID: 1</Brand>
+        <description>
+            <![CDATA[The Travis Scott x Air Jordan 6 Retro ‘British Khaki’ reunites Jordan Brand with the Houston rapper. The upper is crafted with suede and canvas, accented with Bright Crimson details. The stash pouch makes a repeat appearance on the lateral collar, while new zippered detailing is added to the medial side. Mismatched Nike Air and Cactus Jack branding adorns the heel of the left and right shoe, with additional graphics on the midsole, outsole, tongue and lace lock.]]>
+        </description>
+    </shoes-Info>
+</Shoes-detail>
+
+<Heading>Addidas</Heading>
+<Shoes-detail ShoesNo="08">
+    <shoes-Info>
+
+        <Shoes_Name>Shoes Name: UltraBoost 1.0 Limited 'Cream'</Shoes_Name>
+        <Shoes type="Low Top Sneaker">Shoes Type: Low Top Sneaker</Shoes>
+        <Shoes_Brand>Brand: Addidas</Shoes_Brand>
+        <Release_Date>Release Date: 2015-12-13</Release_Date>
+	    <Quantity Shoes_Quntity= "39,000 Worldwide">Shoes Quality: 30,000 Worldwide</Quantity>
+        <Stock_Keeping_Unit>SKU: Aq5559</Stock_Keeping_Unit>
+        <Shoes_Material>Shoes_Material: Primeknit</Shoes_Material>
+        <Main_Colour>Main Colour: Cream</Main_Colour>
+        <Colourway>Colourway: Talc/Chalk White/Core Black</Colourway>
+        <Designed_by>Designed by: Ben Herath</Designed_by>
+        <Silhouette>Silhouette: Ultra Boost</Silhouette>
+        <Technology>Technology: Boost</Technology>
+        <Nick_Name>Nick Name: Cream</Nick_Name>
+        <Category Category= "Running">Category: Running</Category>
+	    <Collaboration Collaboration= "Travis Scott">Collaboration: Travic Scott</Collaboration>
+	    <Shoe_Available Available_Shoes= "45 Pairs">Available Shoes: 45 Pairs</Shoe_Available>
+        <Buy_New>Buy New: $300</Buy_New>
+        <Buy_Used>Buy Used: $65</Buy_Used>
+	    <Limited_Pair LimitedPairs="11/170">Limited Pair: 11/170</Limited_Pair>
+        <Inspired_From Inspired_From= "Back to the Future II(Movie)">Inspired From: Back to the Future II(Movie)</Inspired_From>
+        <Brand Brand_id= "1">Brand ID: 1</Brand>
+        <description>
+            <![CDATA[Initially, a friends and family exclusive, the ‘cream,’ ‘chalk,’ or ‘talc’ colorway was first previewed by Kanye’s barber, Ibn Jasper, via Instagram with the hashtags #YouCantBuyThese and #NotForSale. Released in December 2015, the colorway instantly sold out online but a few pairs surfaced at both Undefeated and Need Supply in January and February 2016 restocks.]]>
+        </description>
+    </shoes-Info>
+</Shoes-detail>
+
+<Heading>Nike</Heading>
+
+<Shoes-detail ShoesNo="09">
+    <shoes-Info>
+
+        <Shoes_Name>Shoes Name: Nike Mag 'Back To The Future'</Shoes_Name>
+        <Shoes type="Low Top Sneaker">Shoes Type: Low Top Sneaker</Shoes>
+        <Shoes_Brand>Brand: Nike</Shoes_Brand>
+        <Release_Date>Release Date: 2011-09-09</Release_Date>
+	    <Quantity Shoes_Quntity= "40,000 Worldwide">Shoes Quality: 30,000 Worldwide</Quantity>
+        <Stock_Keeping_Unit>SKU: 417744 001</Stock_Keeping_Unit>
+        <Shoes_Material>Shoes_Material: Space age</Shoes_Material>
+        <Main_Colour>Main Colour: Grey</Main_Colour>
+        <Colourway>Colourway: Jetstream/White-Pl Blue</Colourway>
+        <Designed_by>Designed by: Tinker Hatfield</Designed_by>
+        <Silhouette>Silhouette: Nike Mag</Silhouette>
+        <Technology>Technology: Boost</Technology>
+        <Nick_Name>Nick Name: Back To The Future</Nick_Name>
+	    <Category Category= "Basketball">Category: Basketball</Category>
+	    <Collaboration Collaboration= "Travis Scott">Collaboration: Travic Scott</Collaboration>
+	    <Shoe_Available Available_Shoes= "45 Pairs">Available Shoes: 45 Pairs</Shoe_Available>
+        <Buy_New>Buy New: $15,499</Buy_New>
+        <Buy_Used>Buy Used: $13,077</Buy_Used>
+        <Limited_Pair LimitedPairs="11/170">Limited Pair: 11/170</Limited_Pair>
+        <Inspired_From Inspired_From= "Back to the Future II(Movie)">Inspired From: Back to the Future II(Movie)</Inspired_From>
+        <Brand Brand_id= "1">Brand ID: 1</Brand>
+        <description>
+            <![CDATA[Immortalized in the 1989 film 'Back to the Future II,' the Nike Mag was finally released to the public in September 2011. Though the shoe lacks the self-lacing feature, it’s an aesthetic match to its filmic counterpart, complete with an electroluminescent Nike logo on the strap and glowing LED arrays at the midsole and heel. The 2011 production run was limited to 1500 pairs and released through charity eBay auctions where proceeds went directly to Michael J. Fox’s Foundation in finding a cure for Parkinson's Disease.]]>
+        </description>
+    </shoes-Info>
+</Shoes-detail>
+
+<Heading>Vans</Heading>
+<Shoes-detail ShoesNo="10">
+    <shoes-Info>
+
+        <Shoes_Name>Shoes Name: Old Skool 'Black White'</Shoes_Name>
+        <Shoes type="Low Top Sneaker">Shoes Type: Low Top Sneaker</Shoes>
+        <Shoes_Brand>Brand: Vans</Shoes_Brand>
+        <Release_Date>Release Date: 2010</Release_Date>
+	    <Quantity Shoes_Quntity= "30,000 Worldwide">Shoes Quality: 30,000 Worldwide</Quantity>
+        <Stock_Keeping_Unit>SKU: VN000D3HY28</Stock_Keeping_Unit>
+        <Shoes_Material>Shoes_Material: Space age</Shoes_Material>
+        <Main_Colour>Main Colour: black</Main_Colour>
+        <Colourway>Colourway: Black/white</Colourway>
+        <Designed_by>Designed by: Paul Van Doren</Designed_by>
+        <Silhouette>Silhouette: Old Skool</Silhouette>
+	    <Technology>Technology: Air</Technology>
+        <Nick_Name>Nick Name: Black White</Nick_Name>
+        <Category Category= "Skateboarding">Cateogry= Skateboarding</Category>
+	    <Collaboration Collaboration= "Travis Scott">Collaboration: Travic Scott</Collaboration>
+	    <Shoe_Available Available_Shoes= "45 Pairs">Available Shoes: 45 Pairs</Shoe_Available>
+        <Buy_New>Buy New: $50</Buy_New>
+        <Buy_Used>Buy Used: $25</Buy_Used>
+	    <Limited_Pair LimitedPairs="11/170">Limited Pair: 11/170</Limited_Pair>
+        <Inspired_From Inspired_From= "Back to the Future II(Movie)">Inspired From: Back to the Future II(Movie)</Inspired_From>
+        <Brand Brand_id= "1">Brand ID: 1</Brand>
+        <description>
+            <![CDATA[Originally dubbed “Style 36” when it debuted in 1977, the Vans Old Skool sneaker was soon embraced by local skaters in South California. This sneaker maintains all the signature elements of the original, including suede side panels, a low-top profile and Vans' iconic “jazz” stripe at the sides. Underfoot, the shoe boasts a sticky gum-rubber tread with a grid-like traction pattern for steady footing when skating or walking.]]>
+        </description>
+    </shoes-Info>
+</Shoes-detail>
+</Store>

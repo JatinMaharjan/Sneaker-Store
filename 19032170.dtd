@@ -1,0 +1,95 @@
+
+
+<!ELEMENT Store (header,Details,(Heading,Shoes-detail)+)>
+<!ATTLIST Store
+xmlns:xs CDATA #FIXED 'http://www.w3.org/2001/XMLSchema-instance'
+xs:noNamespaceSchemaLocation NMTOKEN #REQUIRED>
+<!ELEMENT header (Heading)>
+
+<!ELEMENT Details (Storename,Store-Address,Telephone-Number,
+                   Personal_Number,website)>
+
+<!ELEMENT Brand (#PCDATA)>
+<!ATTLIST Brand
+  Brand_id CDATA #REQUIRED>
+
+<!ELEMENT Shoes-detail (shoes-Info)>
+<!ATTLIST Shoes-detail
+  ShoesNo CDATA #REQUIRED>
+
+<!ELEMENT Storename (#PCDATA)>
+
+<!ELEMENT Store-Address (#PCDATA)>
+<!ATTLIST Store-Address
+  Main_branch NMTOKEN #REQUIRED>
+
+<!ELEMENT Telephone-Number (#PCDATA)>
+
+<!ELEMENT Personal_Number (#PCDATA)>
+
+<!ELEMENT website (#PCDATA)>
+
+<!ELEMENT shoes-Info (Shoes_Name,Shoes,Shoes_Brand,Release_Date,
+                      Quantity,Stock_Keeping_Unit,Shoes_Material,
+                      Main_Colour,Colourway,Designed_by,Silhouette,
+                      Technology,Nick_Name,Category,
+                      Collaboration,Shoe_Available,Buy_New,Buy_Used,
+                      Limited_Pair,Inspired_From,Brand,description)>
+
+<!ELEMENT Shoes_Name (#PCDATA)>
+
+<!ELEMENT Shoes (#PCDATA)>
+<!ATTLIST Shoes
+  type CDATA #REQUIRED>
+
+<!ELEMENT Shoes_Brand (#PCDATA)>
+
+<!ELEMENT Release_Date (#PCDATA)>
+
+<!ELEMENT Quantity (#PCDATA)>
+<!ATTLIST Quantity
+  Shoes_Quntity CDATA #REQUIRED>
+
+<!ELEMENT Stock_Keeping_Unit (#PCDATA)>
+
+<!ELEMENT Shoes_Material (#PCDATA)>
+
+<!ELEMENT Main_Colour (#PCDATA)>
+
+<!ELEMENT Colourway (#PCDATA)>
+
+<!ELEMENT Designed_by (#PCDATA)>
+
+<!ELEMENT Silhouette (#PCDATA)>
+
+<!ELEMENT Technology (#PCDATA)>
+
+<!ELEMENT Nick_Name (#PCDATA)>
+
+<!ELEMENT Category (#PCDATA)>
+<!ATTLIST Category
+  Category NMTOKEN #REQUIRED>
+
+<!ELEMENT Collaboration (#PCDATA)>
+<!ATTLIST Collaboration
+  Collaboration CDATA #REQUIRED>
+
+<!ELEMENT Shoe_Available (#PCDATA)>
+<!ATTLIST Shoe_Available
+  Available_Shoes CDATA #REQUIRED>
+
+<!ELEMENT Buy_New (#PCDATA)>
+
+<!ELEMENT Buy_Used (#PCDATA)>
+
+<!ELEMENT Limited_Pair (#PCDATA)>
+<!ATTLIST Limited_Pair
+  LimitedPairs CDATA #REQUIRED>
+
+<!ELEMENT Inspired_From (#PCDATA)>
+<!ATTLIST Inspired_From
+  Inspired_From CDATA #REQUIRED>
+
+<!ELEMENT description (#PCDATA)>
+
+<!ELEMENT Heading (#PCDATA)>
